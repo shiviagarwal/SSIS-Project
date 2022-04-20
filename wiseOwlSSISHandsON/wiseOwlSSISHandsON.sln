@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "wiseOwlSSISHandsON", "wiseOwlSSISHandsON\wiseOwlSSISHandsON.dtproj", "{7AA022E1-B8DA-423B-86C2-69696450C12D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Dev|Default = Dev|Default
+		Prod|Default = Prod|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AA022E1-B8DA-423B-86C2-69696450C12D}.Dev|Default.ActiveCfg = Dev
+		{7AA022E1-B8DA-423B-86C2-69696450C12D}.Dev|Default.Build.0 = Dev
+		{7AA022E1-B8DA-423B-86C2-69696450C12D}.Prod|Default.ActiveCfg = Prod
+		{7AA022E1-B8DA-423B-86C2-69696450C12D}.Prod|Default.Build.0 = Prod
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7955A8E-6FE2-46A7-A4EB-57BF2EEF60F0}
+	EndGlobalSection
+EndGlobal
